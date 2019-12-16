@@ -14,3 +14,6 @@
 Лазер.
 Particle + actor
 ![01](https://user-images.githubusercontent.com/36669204/70929000-2ee6d980-2043-11ea-875b-3ea5e23149f9.jpg)
+
+# SingleShooter
+Простейшая механика для НПС по обнаружению плеера 
