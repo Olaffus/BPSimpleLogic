@@ -17,3 +17,9 @@ Particle + actor
 
 # SingleShooter
 Простейшая механика для НПС по обнаружению плеера 
+
+# MixamoClothes
+Настройки
+![01](https://user-images.githubusercontent.com/36669204/70929407-1e832e80-2044-11ea-9593-d3d2cc799260.png)
+![02](https://user-images.githubusercontent.com/36669204/70929412-217e1f00-2044-11ea-8eac-3e0be9e0a7fc.jpg)
+![03](https://user-images.githubusercontent.com/36669204/70929417-22af4c00-2044-11ea-8594-40daf7f5b7ea.jpg)
