@@ -1,32 +1,30 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+Ball_v22/Saved/
+Ball_v22/Intermediate/
+Ball_v22/Build/
+Ball_v22/Binaries/
+Ball_v22/.vs/
 
-# Precompiled Headers
-*.gch
-*.pch
+MixamoClothes_v22/Saved/
+MixamoClothes_v22/Intermediate/
+MixamoClothes_v22/Build/
+MixamoClothes_v22/Binaries/
+MixamoClothes_v22/.vs/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+OptimizationInstance_v22/HISMA_01_v22/Saved/
+OptimizationInstance_v22/HISMA_01_v22/Intermediate/
+OptimizationInstance_v22/HISMA_01_v22/Build/
+OptimizationInstance_v22/HISMA_01_v22/Binaries/
+OptimizationInstance_v22/HISMA_01_v22/.vs/
 
-# Fortran module files
-*.mod
-*.smod
+ParticaleLazer_v22/Saved/
+ParticaleLazer_v22/Intermediate/
+ParticaleLazer_v22/Build/
+ParticaleLazer_v22/Binaries/
+ParticaleLazer_v22/.vs/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+SingleShooter_v22/Saved/
+SingleShooter_v22/Intermediate/
+SingleShooter_v22/Build/
+SingleShooter_v22/Binaries/
+SingleShooter_v22/.vs/
